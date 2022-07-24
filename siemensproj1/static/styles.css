@@ -1,0 +1,11 @@
+
+.container{
+    background-image: url("../static/img/siemens_bg.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+.site_title{
+    color: aliceblue;
+    text-justify: auto;
+}
